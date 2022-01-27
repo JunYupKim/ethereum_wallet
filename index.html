@@ -1,0 +1,46 @@
+<!Doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://code.jquery.com/jquery-latest.js "></script>
+    <script type="text/javascript" src="./js/qrcode.js"></script>
+    <script type="text/javascript" src="./js/web3.min.js"></script>
+	<script type="text/javascript" src="./js/ethereumjs-tx-1.3.3.min.js"></script>
+    <script type="text/javascript" src="./js/main.js "></script>
+    <link rel="stylesheet" href="./css/main.css">
+    <title>Wallet</title>
+</head>
+
+<body>
+    <div class="login-wrap">
+        <div class="login-html">
+            <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">Ethereum Wallet</label>
+            <input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab"></label>
+            <div class="login-form">
+                <div class="sign-in-htm">
+                    <br>
+                    <div class="group">
+                        <button class="button" id="createAccount" >Create Ethereum Account </button>
+                        <div> 
+                            <div id="qrcode" style="display:flex; justify-content: center;"></div>
+                        </div>
+                    </div>
+                    <h5>Your Address     <input id="fromaddress" size="45" placeholder=""></input> </h5>
+                    <h5>Recipient  <input id="toaddress" size="45" value="" placeholder="" required></input> </h5>
+                    <div id="message" style="color:white"></div>
+                    <h5>Send Amount <input id="amount" size="45" placeholder="" required></input></h5>
+                    <h5>Private Key <input id="password" size="45" placeholder="" required></input></h5>
+
+                    <div class="group">
+                        <input type="submit" class="button" id="submit" value="Send">
+                    </div>
+            
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
