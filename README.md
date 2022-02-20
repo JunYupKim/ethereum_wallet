@@ -19,7 +19,7 @@ As a blockchain developer, I have always wanted to create a crypto wallet. So I 
 </div>
 
 <div align=center>
-  <img width="249" alt="" src="">
+  <img width="auto" alt="" src="https://github.com/JunYupKim/ethereum_wallet/blob/main/2.png">
 </div>
 
 
