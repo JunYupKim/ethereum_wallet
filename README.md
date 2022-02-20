@@ -23,7 +23,7 @@ As a blockchain developer, I have always wanted to create a crypto wallet. So I 
 </div>
 
 
-## 기술스택
+## Tech
 
 <p>
 
