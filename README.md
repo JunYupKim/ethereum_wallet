@@ -19,7 +19,7 @@ As a blockchain developer, I have always wanted to create a crypto wallet. So I 
 </div>
 
 <div align=center>
-  <img width="auto" alt="" src="https://github.com/JunYupKim/ethereum_wallet/blob/main/2.png">
+  <img width="auto" alt="" src="https://github.com/JunYupKim/ethereum_wallet/blob/main/2-edit.png">
 </div>
 
 
@@ -42,7 +42,7 @@ As a blockchain developer, I have always wanted to create a crypto wallet. So I 
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/JunYupKim/nft_sns/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/JunYupKim/ethereum_wallet). 
 
 ## Show your support
 
