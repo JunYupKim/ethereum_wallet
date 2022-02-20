@@ -9,13 +9,18 @@
 
 Ethereum Wallet 
 
-<div align=center>
-> Images
-  <img width="249" alt="" src="">
-</div>
 <h2 align=center> Ethereum Wallet </h2>
 
 As a blockchain developer, I have always wanted to create a crypto wallet. So I did. 
+
+
+<div align=center>
+  <img width="249" alt="" src="">
+</div>
+
+<div align=center>
+  <img width="249" alt="" src="">
+</div>
 
 
 ## 기술스택
