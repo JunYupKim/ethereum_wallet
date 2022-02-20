@@ -15,7 +15,7 @@ As a blockchain developer, I have always wanted to create a crypto wallet. So I 
 
 
 <div align=center>
-  <img width="249" alt="" src="">
+  <img width="249" alt="" src="https://github.com/JunYupKim/ethereum_wallet/blob/main/1.png">
 </div>
 
 <div align=center>
@@ -27,7 +27,7 @@ As a blockchain developer, I have always wanted to create a crypto wallet. So I 
 
 <p>
 
-  <img src="https://img.shields.io/badge/-JavaScript-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-JavaScript-blue"/>
  
 </p>
 
